@@ -1,0 +1,3 @@
+#!/bin/sh
+/usr/bin/killall coreaudiod 2>/dev/null || true
+exit 0

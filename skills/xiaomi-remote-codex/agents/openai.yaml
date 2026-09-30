@@ -1,0 +1,4 @@
+interface:
+  display_name: "小米遥控器 · Codex"
+  short_description: "在 Apple Silicon Mac 安装并验证小米遥控器 2 Pro 的豆包语音与 Codex 按键配置"
+  default_prompt: "使用 $xiaomi-remote-codex 安装小米遥控器配置，保留我的输入法偏好并逐项测试。"

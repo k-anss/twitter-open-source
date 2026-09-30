@@ -1,0 +1,11 @@
+.DS_Store
+._*
+__MACOSX/
+.build/
+build/
+dist/
+*.log
+*.wav
+.env
+.env.*
+uuid.txt
